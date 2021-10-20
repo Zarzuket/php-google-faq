@@ -33,3 +33,6 @@ h2{
 p{
     margin-bottom: 1.25rem;
 }
+a{
+    text-decoration: none;
+}
