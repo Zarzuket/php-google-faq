@@ -107,14 +107,7 @@ $db = [
                         <p><?php echo "{$answer['risposta']}"; ?></p>
                     <?php } ?>
                 </div>
-                <div>
-                    <?php foreach($db as $qr => $answer){ ?>
-                        
-                    <?php } ?>
-                </div>
             </div>
         </main>
-
-
     </body>
 </html>
