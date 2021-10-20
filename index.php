@@ -72,8 +72,33 @@ $db = [
     </head>
     <body>
         <header>
-            <img src="img/googlelogo_clr_74x24px.svg" alt="">
-        </header>       
+            <nav class="nav_1">
+                <div class="container_img">
+                    <img src="img/googlelogo_clr_74x24px.svg" alt="">
+                </div>
+                <div style="color: grey; font-size:larger">Privacy e termini</div>
+            </nav>
+            <nav class="nav_2">
+                <ul>
+                    <li>
+                        Introduzione
+                    </li>
+                    <li>
+                        Norme sulla
+                    </li>
+                    <li>
+                        Termini di servizio
+                    </li>
+                    <li>
+                        Tecnologie
+                    </li>
+                    <li class="blue">
+                        Domande Frequenti
+                    </li>
+                </ul>
+            </nav>
+        </header> 
+        <hr>      
         <main>
             <div class="container">
                 <div>
